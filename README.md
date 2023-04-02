@@ -16,10 +16,6 @@ Also any valid product will add to a sorted list.
 </p>
 
 ## installation
-for creating the database.sqlite again(refresh)
-run this command:
-
-## installation
 
 ```bash
 $ npm install
